@@ -1,0 +1,18 @@
+*{
+	box-sizing:border-box;
+	padding-top:10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.cname{
+	
+	text-align:center;
+	height:80px;
+	padding-top:10px;
+	font-size:40px;
+	font-weight:bold;
+	background-color:#066DF2;
+	color:white;
+	
+}
